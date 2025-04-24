@@ -1,0 +1,5 @@
+[project]
+name = "tokentamer"
+version = "0.1.0"
+description = "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know."
+requires-python = ">=3.10"
